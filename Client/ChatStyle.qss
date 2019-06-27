@@ -1,0 +1,16 @@
+QLineEdit{
+     border-width: 2px;
+     border-style: solid;
+     border-color: gray;
+     border-radius: 10px;
+     color: white;
+     font-weight: bold;
+}
+QTextEdit{
+     border-width: 2px;
+     border-style: solid;
+     border-color: gray;
+     border-radius: 10px;
+     color: white;
+     font-weight: bold;
+}
